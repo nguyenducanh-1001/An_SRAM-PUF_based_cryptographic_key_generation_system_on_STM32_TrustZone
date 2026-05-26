@@ -1,0 +1,2 @@
+# An_SRAM-PUF_based_cryptographic_key_generation_system_on_STM32_TrustZone
+Mini research project.
