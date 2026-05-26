@@ -1,4 +1,4 @@
-# An_SRAM_PUF_based_cryptographic_key_generation_system_on_STM32_TrustZone
+# An SRAM-PUF-based cryptographic key generation system on STM32 TrustZone
 
 Lightweight hardware security key generation.
 Implemented on STM32 Cortex-M33 (TrustZone).
